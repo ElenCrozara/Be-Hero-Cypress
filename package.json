@@ -1,0 +1,22 @@
+{
+  "name": "be-hero-cypress",
+  "version": "1.0.0",
+  "description": "Testando uma aplicação de cadastrar Ongs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElenCrozara/Be-Hero-Cypress.git"
+  },
+  "author": "Elen Crozara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ElenCrozara/Be-Hero-Cypress/issues"
+  },
+  "homepage": "https://github.com/ElenCrozara/Be-Hero-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
